@@ -158,8 +158,9 @@ ORDER BY total DESC;
 # Insights Obtidos
 - Linguagens de Programação
 
+<img width="3904" height="2268" alt="image" src="https://github.com/user-attachments/assets/cdd6311d-37d4-46f8-8cfa-255ff59e7196" />
 
-<img width="4032" height="1711" alt="image" src="https://github.com/user-attachments/assets/3670fd65-155b-485f-ad16-24bb2e728f93" />
+
 
 # Conclusão
 SQL e Python permanecem como as principais linguagens utilizadas pelos profissionais da área de dados.
