@@ -157,10 +157,12 @@ ORDER BY total DESC;
 
 # Insights Obtidos
 - Linguagens de Programação
-
-<img width="3904" height="2268" alt="image" src="https://github.com/user-attachments/assets/cdd6311d-37d4-46f8-8cfa-255ff59e7196" />
-
-
+As linguagens mais utilizadas pelos profissionais de dados foram:
+- Linguagem	TotalSQL    1760
+- Python                1429
+- R                       90
+- Visual Basic/VBA        36
+- Scala	                  22
 
 # Conclusão
 SQL e Python permanecem como as principais linguagens utilizadas pelos profissionais da área de dados.
