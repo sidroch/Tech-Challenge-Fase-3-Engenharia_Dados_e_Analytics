@@ -208,17 +208,17 @@ postech-fase3/
 
 ## Resultados Alcançados
 
-✅ Amazon S3
-✅ Camada Bronze
-✅ AWS Glue Crawlers
-✅ Glue Data Catalog
-✅ Amazon Athena
-✅ Apache Spark
-✅ Conversão CSV → Parquet
-✅ Camada Silver
-✅ Camada Gold
-✅ Consultas Analíticas
-✅ Arquitetura Medallion
+- ✅ Amazon S3
+- ✅ Camada Bronze
+- ✅ AWS Glue Crawlers
+- ✅ Glue Data Catalog
+- ✅ Amazon Athena
+- ✅ Apache Spark
+- ✅ Conversão CSV → Parquet
+- ✅ Camada Silver
+- ✅ Camada Gold
+- ✅ Consultas Analíticas
+- ✅ Arquitetura Medallion
 
 # Conclusão
 O projeto demonstrou a construção de um pipeline de dados completo na AWS, contemplando ingestão, processamento, catalogação e análise de dados utilizando serviços gerenciados e processamento distribuído com Apache Spark.
